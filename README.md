@@ -13,3 +13,26 @@ This independent learning assignment explores what happens when a computer recei
 - [Mission 6 — Git and GitHub](mission-06-git-github/README.md)
 - [Mission 7 — How computers communicate](mission-07-networking/README.md)
 - [Mission 8 — Final report and submission](mission-08-final-report/README.md)
+
+## Topics explored
+
+- Input, processing, output and storage, plus hardware and software
+- Terminal commands, flags, pipes, operating-system resources and permissions
+- Python execution, binary, hexadecimal and text encoding
+- Git version control, branches and pull requests
+- Network types, DNS, routing and website requests
+
+## Run the number converter
+
+From the repository root, run:
+
+```sh
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+Type a decimal integer and press Enter. For example, input `25` produces `0b11001` in binary and `0x19` in hexadecimal.
+
+## Learning summary
+
+Typing and saving a document involves multiple stages that use different parts of the computer. The same integer can be written in decimal, binary or hexadecimal. Git records selected changes as snapshots, and a branch gives a change its own line of development. DNS looks up the address a browser can use to contact a website.
