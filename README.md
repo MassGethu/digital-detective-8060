@@ -13,3 +13,9 @@ This independent learning assignment explores what happens when a computer recei
 - [Mission 6 — Git and GitHub](mission-06-git-github/README.md)
 - [Mission 7 — How computers communicate](mission-07-networking/README.md)
 - [Mission 8 — Final report and submission](mission-08-final-report/README.md)
+
+## My Learning
+
+- IPOS shows how typing a sentence becomes displayed text and then a saved file.
+- Decimal, binary and hexadecimal can represent the same value using different place weights.
+- A Git commit records the selected changes for one checkpoint, so each mission can be reviewed in the history.
